@@ -1,6 +1,6 @@
 # Xylophone
 
-A new Flutter application.
+A new Flutter application. As the name tells; it has sound of various tones represented by different color. 
 
 ## Preview
 <img src='assets/xylo.jpeg' height=650 width=350 hspace=300 />
