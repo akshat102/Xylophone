@@ -3,7 +3,6 @@
 A new Flutter application.
 
 ## Preview
-<br />
 <img src='assets/xylo.jpeg hspace=50 />
           
 ## Getting Started
