@@ -8,8 +8,7 @@
 .buildlog/
 .history
 .svn/
-.Makefile
-
+.dart_tools/
 # IntelliJ related
 *.ipr
 *.iws
